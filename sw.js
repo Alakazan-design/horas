@@ -1,6 +1,6 @@
 // Guarda o app no aparelho para abrir mesmo sem internet.
 // Estratégia: tenta a rede primeiro (pega atualizações) e cai para o cache se estiver offline.
-const CACHE = 'horas-v1';
+const CACHE = 'horas-v2';
 const ASSETS = [
   './',
   'index.html',
